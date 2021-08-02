@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryTutorialSakthi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e44f159a-3619-4772-83c1-ae822c8d3205",
+		"tenantId": "f1bfefe5-9c1c-40af-ab6a-65ffa97069e3"
+	}
+}
